@@ -1,6 +1,9 @@
 1-) Fast Transaction 
+
 2-) Lower costs
+
 3-) Decentralized structure
+
 4-) High performance
 
 Resources:
